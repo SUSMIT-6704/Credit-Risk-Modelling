@@ -114,7 +114,3 @@ Your feedback and suggestions are highly appreciated! Feel free to contribute or
 
 ---
 
-## Connect with Me
-- **Email**: prabhudattapatra28@gmail.com
-- **GitHub**: [https://github.com/PrabhudattaPatra](https://github.com/PrabhudattaPatra)
-- **LinkedIn**: [https://www.linkedin.com/in/prabhudattapatra/](https://www.linkedin.com/in/prabhudattapatra/)
